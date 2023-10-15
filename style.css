@@ -4,11 +4,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 
-@font-face {
-    font-family:'njnaruto';
-    src: url(fonts/njnaruto.ttf) format('truetype');
-}
-
 * {
     margin: 0px;
     padding: 0px;
