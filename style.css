@@ -67,7 +67,7 @@ nav a:hover {
 section {
     padding-top:10vh;
     padding-bottom: 10vh;
-    line-height: 5vw;
+    line-height: 4vw;
     padding-left: 30px;
 }
 
@@ -92,7 +92,7 @@ section > p {
 .imagem > p {
     max-width: 200px;
     display: inline-block;
-    padding: 5px;
+    padding: 3px;
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 2px 0px black;
 
